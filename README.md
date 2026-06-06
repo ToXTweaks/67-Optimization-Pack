@@ -94,7 +94,7 @@ Resources
 Clone the repository:
 
 ```bash
-git clone https://github.com/ToXTweaks/Optimization-Pack.git
+git clone https://github.com/ToXTweaks/67-Optimization-Pack.git
 ```
 
 Then run:
@@ -143,7 +143,7 @@ https://toxtweaks.com
 https://discord.gg/toxtweaks
 
 📦 Releases
-https://github.com/ToXTweaks/Optimization-Pack/releases
+https://github.com/ToXTweaks/67-Optimization-Pack/releases
 
 ---
 
