@@ -3,16 +3,6 @@
 <p align="center">
   <strong>A free Windows optimization pack designed to improve responsiveness, reduce latency, and enhance gaming performance.</strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ToXTweaks/Optimization-Pack/releases">
-    <img src="https://img.shields.io/github/v/release/ToXTweaks/Optimization-Pack?style=for-the-badge">
-  </a>
-  <a href="https://github.com/ToXTweaks/Optimization-Pack/stargazers">
-    <img src="https://img.shields.io/github/stars/ToXTweaks/Optimization-Pack?style=for-the-badge">
-  </a>
-</p>
-
 ---
 
 ## 📖 About
