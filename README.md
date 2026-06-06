@@ -1,10 +1,6 @@
 # 🚀 67 Sec Optimization Pack
 
 <p align="center">
-  <img src="https://toxtweaks.com/logo.png" width="128" alt="ToX Tweaks Logo">
-</p>
-
-<p align="center">
   <strong>A free Windows optimization pack designed to improve responsiveness, reduce latency, and enhance gaming performance.</strong>
 </p>
 
