@@ -14,5 +14,3 @@ for /f %%g in ('wmic path win32_videocontroller get PNPDeviceID ^| findstr /L "V
 )
 
 echo.
-echo Done. Restart Windows to fully apply changes.
-pause
