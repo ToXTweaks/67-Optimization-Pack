@@ -1,0 +1,8 @@
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *ShazamEntertainmentLtd.Shazam* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Flipboard.Flipboard* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *9E2F88E3.Twitter* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *ClearChannelRadioDigital.iHeartRadio* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *D5EA27B7.Duolingo-LearnLanguagesforFree* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *AdobeSystemsIncorporated.AdobePhotoshopExpress* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *PandoraMediaInc.29680B314EFC2* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *SpotifyAB.SpotifyMusic* | Remove-AppxPackage -ErrorAction SilentlyContinue"

@@ -1,0 +1,5 @@
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.Wallet* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.PowerAutomateDesktop* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Clipchamp* | Remove-AppxPackage -ErrorAction SilentlyContinue"

@@ -1,0 +1,5 @@
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.OfficeHub* | Remove-AppxPackage -ErrorAction SilentlyContinue"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-AppxPackage *Microsoft.Office.Sway* | Remove-AppxPackage -ErrorAction SilentlyContinue"
