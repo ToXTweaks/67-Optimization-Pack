@@ -32,5 +32,3 @@ for /f %%a in ('wmic PATH Win32_USBHub GET DeviceID ^| findstr /l "USB\ROOT_HUB"
 )
 
 echo.
-echo Done. Restart Windows to fully apply changes.
-pause
