@@ -147,8 +147,10 @@ Feel free to:
 
 🌐 Website
 https://toxtweaks.com
+
 💬 Discord
 https://discord.gg/toxtweaks
+
 📦 Releases
 https://github.com/ToXTweaks/Optimization-Pack/releases
 
