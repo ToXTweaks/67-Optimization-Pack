@@ -13,5 +13,3 @@ reg.exe add "HKLM\SYSTEM\CurrentControlSet\Services\mouclass\Parameters" /v "Pci
 reg.exe add "HKLM\SYSTEM\CurrentControlSet\Services\mouclass\Parameters" /v "PcixLatencyTimerControl" /t REG_DWORD /d "20" /f
 
 echo.
-echo Done. Restart Windows to fully apply changes.
-pause
